@@ -21,3 +21,10 @@ git remote set-url origin https://github.com/dourado/repository-name.git
 ```
 
 <div align="center"> <p>Thank you for your understanding and see you at the new profile!</p> <p>👉 <a href="https://github.com/dourado">@dourado</a> 👈</p> </div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascdourado.lucascdourado&format=true"/>
+</div>
+
+###
