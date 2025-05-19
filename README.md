@@ -10,7 +10,7 @@ This profile (@lucascdourado) was created only to preserve the old username and 
 <div align="center">
    <h3><a href="https://github.com/dourado"></a></h3>
    <a href="https://github.com/dourado"><img src="https://img.shields.io/badge/GitHub-dourado-2ea44f?style=for-the-badge&logo=github" alt="My current GitHub profile"></a> 
-   <p><small>Yes, the image above is clickable!</small></p>
+   <p><sub>Yes, the image above is clickable!</sub></p>
 </div>
 
 ## 📝 What changed?
