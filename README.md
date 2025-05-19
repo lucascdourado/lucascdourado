@@ -8,8 +8,8 @@ This profile (@lucascdourado) was created only to preserve the old username and 
 
 ## ⭐ My new GitHub profile:
 <div align="center">
-   <h3><a href="https://rebrand.ly/dourado" target="__blank"></a></h3>
-   <a href="https://rebrand.ly/dourado" target="__blank"><img src="https://img.shields.io/badge/GitHub-dourado-2ea44f?style=for-the-badge&logo=github" alt="My current GitHub profile"></a> 
+   <h3><a href="https://dourado.short.gy/github" target="__blank"></a></h3>
+   <a href="https://dourado.short.gy/github" target="__blank"><img src="https://img.shields.io/badge/GitHub-dourado-2ea44f?style=for-the-badge&logo=github" alt="My current GitHub profile"></a> 
    <p><sub>Yes, the image above is clickable!</sub></p>
 </div>
 
