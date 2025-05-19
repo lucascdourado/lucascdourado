@@ -11,7 +11,7 @@ This profile (@lucascdourado) was created only to preserve the old username and 
 
 ## 📝 What changed?
 - All my repositories have been transferred to my new account
-- Future projects will be hosted exclusively at [@dourado](https://github.com/dourado)
+- Future projects will be hosted exclusively at [@dourado](#-my-new-github-profile)
 - Any collaborations or contacts should be directed to my new account
 
 ## 🔄 If you have forks or clones:
